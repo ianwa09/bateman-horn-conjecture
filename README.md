@@ -1,4 +1,4 @@
-# Bateman-Horn Conjecture Computational Analysis
+# NumberTheoryJava
 
 Java program for searching and counting primes of the form **n² + 1** up to large limits.
 
@@ -30,8 +30,10 @@ Example:
 ```bash
 1 2 1
 ```
+<img width="876" height="556" alt="actual_vs_expected_ratio_2" src="https://github.com/user-attachments/assets/1afc4fc7-4cca-4a94-a9a5-bf9e2de291f3" />
 
-Starts at 1, multiplies by 2 at each step, and shows detailed information with a graph. 
+
+Starts at 1, multiplies by 2 at each step, and displays data in a graph. Here a comparison between the actual computed ratio and the expected ratio by the Bateman-Horn Conjecture is used.
 
 ## References
 
